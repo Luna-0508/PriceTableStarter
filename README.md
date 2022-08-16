@@ -1,4 +1,4 @@
 # PriceTable
-Project from Te Web Developer Bootcamp by Colt Steele.
+Project from The Web Developer Bootcamp by Colt Steele.
 
-Working on Flexbox.
+Play with CSS: working on Flexbox and a bit media queries.
